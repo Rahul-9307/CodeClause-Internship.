@@ -53,19 +53,6 @@ This project uses HTML5 for semantic markup and accessibility, CSS3 for modern s
 
 <br>
 
-### 🚀 Deployment Platforms & Hosting
-Modern hosting platforms provide seamless deployment with powerful features like automatic CI/CD, form handling, global CDN distribution, and performance optimization. These platforms enable developers to deploy portfolio websites with professional features and reliability.
-
-<a href="https://www.netlify.com/">
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify" /></a>
-  <a href="https://vercel.com/">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" width="50" height="50" alt="Vercel" /></a>
-  <a href="https://firebase.google.com/products/hosting">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase Hosting"></a>
-  <a href="https://pages.github.com/">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/github.png" width="50" height="50" alt="GitHub Pages">
-</a>
-
 
 ### Features
 This repository features responsive web design with mobile-first approach, interactive components with smooth animations, and modern CSS techniques including Grid and Flexbox. It includes dark/light theme switching, project filtering and categorization, contact form integration with Netlify, and optimized performance with clean, semantic code structure.
@@ -178,14 +165,6 @@ This repository features responsive web design with mobile-first approach, inter
  This portfolio project is a modern web showcase built with HTML5, CSS3, and vanilla JavaScript. The website features responsive design, smooth animations, and interactive components that demonstrate professional web development skills. Perfect for developers, students, and professionals looking to create an impressive online presence.
  <br>
 
-⚠️ <b>Note:</b> The contact form requires Netlify hosting for full functionality, or you can configure it with other form handling services.
-</p>
-
-<a href="">
-  <img src="https://img.shields.io/badge/Netlify-Live%20Portfolio-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="Live Portfolio Badge">
-</a>
-
-<br>
 
 <h2>❃ Portfolio Development Resources</h2>
 
@@ -244,10 +223,9 @@ Professional contact form with social media integration and downloadable resume.
 2] <b>Git</b> – Version control system for tracking changes – git-scm.com <br>
 3] <b>Chrome DevTools</b> – Browser development tools for debugging <br>
 4] <b>Figma</b> – Design tool for UI/UX prototyping – figma.com <br>
-5] <b>Netlify</b> – Modern hosting with CI/CD – netlify.com <br>
-6] <b>Live Server</b> – Local development server with auto-reload <br>
-7] <b>Prettier</b> – Code formatter for consistent styling <br>
-8] <b>ESLint</b> – JavaScript linting for code quality <br>
+5] <b>Live Server</b> – Local development server with auto-reload <br>
+6] <b>Prettier</b> – Code formatter for consistent styling <br>
+7] <b>ESLint</b> – JavaScript linting for code quality <br>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/VS_Code-Modern_Editor-5E81AC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VS Code"></a> 
@@ -387,96 +365,26 @@ Website-Portfolio/
 ├── 📁 assets/
 │   ├── 📁 ele/               # Design elements and logos
 │   ├── 🖼️ profile.jpg        # Profile image
-│   └── 📋 rushi_tech_resume.pdf  # Resume download
+│   └── 📋 rahul_tech_resume.pdf  # Resume download
 ├── 📊 projects.json          # Project data
 ├── 🚫 .gitignore            # Git ignore rules
-├── 📜 LICENSE               # Project license
 └── 📖 README.md             # Project documentation
 ```
 
 
-
-
-
-### Netlify (Recommended)
-
-
-**Step-by-step deployment:**
-
-1. Fork this repository to your GitHub account
-2. Connect to Netlify - Go to [Netlify](https://netlify.com) and deploy from Git
-3. Configure Forms - Forms work automatically with Netlify
-
-### Alternative Deployment Options
-- **Vercel**: Connect GitHub repo for automatic deployment
-- **GitHub Pages**: Enable in repository settings  
-- **Firebase Hosting**: Use Firebase CLI for deployment
-
-## 📧 Contact Form Configuration
-
-The contact form is configured to work seamlessly with Netlify Forms:
-
-```html
-<form name="portfolio-contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
-```
 
 ### Security Features
 - **Spam Protection**: Includes honeypot field for bot detection
 - **Success Page**: Redirects to custom thank-you page  
 - **Email Notifications**: Configure in Netlify dashboard
 
-## 🎨 Customization Guide
 
-<details>
-<summary>Theme Customization</summary>
-
-### Theme Colors
-Update CSS variables in `style.css`:
-```css
-:root {
-  --primary-color: #667eea;
-  --secondary-color: #764ba2;
-  --accent-color: #f093fb;
-  /* ... more variables */
-}
-```
-
-</details>
-
-<details>
-<summary>Adding New Projects</summary>
-
-Update `projects.json` with your project data:
-```json
-{
-  "title": "Your Amazing Project",
-  "description": "Brief description of what this project does",
-  "image": "./assets/project-preview.jpg",
-  "tags": ["HTML", "CSS", "JavaScript"],
-  "category": "web",
-  "github": "https://github.com/username/repository",
-  "demo": "https://your-project-demo.com"
-}
-```
-
-</details>
-
-## 🤝 Contributing
-
-<img src="https://img.shields.io/badge/Contributions-Welcome-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Contributions">
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
 
 ## Contact
 
 📧 Email: rgpatil9307@gmail.com  
-💼 LinkedIn: [in/rushhiii]([https://linkedin.com/in/rushhiii](https://www.linkedin.com/in/rahul-patil-747a642ab/))  
-🐙 GitHub: [@rushhiii]([https://github.com/rushhiii](https://github.com/Rahul-9307))  
-🌐 Portfolio: [)
+💼 LinkedIn: [in/Rahul]([[https://linkedin.com/in/rushhiii](https://www.linkedin.com/in/rahul-patil-747a642ab/)) 
+🐙 GitHub: [@Rahul](https://github.com/Rahul-9307))  
 
 #
 
