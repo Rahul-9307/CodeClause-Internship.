@@ -31,10 +31,13 @@ A modern 3D–styled personal portfolio website designed to highlight projects, 
 - Custom Animation Libraries  
 - 3D Vector Art  
 
----
+
+## 📸 Portfolio Website Screenshot
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/15da2d41d079a3a3aad0cb3995f14c56.gif" width="75%">
+  <img src="portfolio-main/portfolio-main/assets/ele/preview.png" 
+       width="90%" 
+       style="border-radius: 20px; box-shadow: 0px 0px 25px rgba(0,0,0,0.3);" />
 </p>
 
 ---
@@ -57,14 +60,23 @@ A powerful, clean, and dynamic Resume Builder that instantly generates a formatt
 - CSS  
 - JavaScript (DOM Based Rendering)  
 
----
+## 📸 Resume Builder Screenshot
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/4237630/file/original-41c4aa9026be53db19608a455f96b021.gif" width="70%">
+  <img src="Resume-Builder-master/Resume-Builder-master/assets/images/forntpage.png" 
+       width="80%" 
+       style="border-radius: 20px; box-shadow: 0px 0px 25px rgba(0,0,0,0.3);" />
+</p>
+👤 Author
+
+<p align="left">
+  <b>Rahul Patil</b><br>
+  🚀 Passionate Web Developer | MERN Stack Learner | Creative Designer<br><br>
+  🌐 <b>GitHub: <a href="https://github.com/Rahul-9307">https://github.com/Rahul-9307</a><br>
+  📧 <b>Email: <a href="rahulgpatil165@gmail.com">rahulgpatil165@gmail.com</a><br>
+  🔗 <b>LinkedIn: <a href="https://www.linkedin.com/in/rahul-patil-747a642ab/">https://www.linkedin.com/in/rahul-patil-747a642ab/</a>
 </p>
 
----
-
-# 🗂 Folder Structure
 
 
+ <p align="center"><b>✨ Thanks for visiting this 3D Animated Project Showcase! ✨</b></p>
