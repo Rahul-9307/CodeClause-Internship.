@@ -1,5 +1,8 @@
-[![Banner](portfolio-main/portfolio-main/assets/ele/preview.png)](https://github.com/rushhiii/portfolio)
-
+<p align="center">
+  <a href="https://github.com/Rahul-9307">
+    <img src="./assets/ele/card_banner.png" width="1000" height="200" />
+  </a>
+</p>
 <h1>★ Modern Portfolio Website</h1>
 
 <h4>
@@ -223,9 +226,8 @@ Professional contact form with social media integration and downloadable resume.
 2] <b>Git</b> – Version control system for tracking changes – git-scm.com <br>
 3] <b>Chrome DevTools</b> – Browser development tools for debugging <br>
 4] <b>Figma</b> – Design tool for UI/UX prototyping – figma.com <br>
-5] <b>Live Server</b> – Local development server with auto-reload <br>
-6] <b>Prettier</b> – Code formatter for consistent styling <br>
-7] <b>ESLint</b> – JavaScript linting for code quality <br>
+5] <b>Prettier</b> – Code formatter for consistent styling <br>
+6] <b>ESLint</b> – JavaScript linting for code quality <br>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/VS_Code-Modern_Editor-5E81AC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VS Code"></a> 
@@ -383,8 +385,8 @@ Website-Portfolio/
 ## Contact
 
 📧 Email: rgpatil9307@gmail.com  
-💼 LinkedIn: [in/Rahul]([[https://linkedin.com/in/rushhiii](https://www.linkedin.com/in/rahul-patil-747a642ab/)) 
-🐙 GitHub: [@Rahul](https://github.com/Rahul-9307))  
+💼 LinkedIn: https://www.linkedin.com/in/rahul-patil-747a642ab/<br>
+🐙 GitHub: [@Rahul-9307](https://github.com/Rahul-9307)  
 
 #
 
